@@ -1,0 +1,83 @@
+.box {
+    margin-top: 8%;
+    height: 80%;
+}
+
+#footer {
+    width: 100%;
+    background: #404040;
+    padding: 0 0 30px 0;
+
+}
+
+
+#footer .footer-top {
+    background: #3b3b3b;
+    border-top: 1px solid #474747;
+    border-bottom: 1px solid #474747;
+    padding: 30px 0 20px 0
+}
+
+
+#footer .footer-top .social-links a {
+    display: inline-block;
+    background: #545454;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+}
+
+#footer .footer-top .social-links a:hover {
+    background: #fff;
+    color: #fff;
+    text-decoration: none
+}
+
+
+#footer .footer-top .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#footer .footer-top .footer-links ul i {
+    padding-right: 2px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1
+}
+
+#footer .footer-top .footer-links ul li {
+    padding: 10px 0;
+    display: flex;
+    align-items: right;
+
+}
+
+#footer .footer-top .footer-links ul li:first-child {
+    padding-top: 0;
+
+}
+
+#footer .footer-top .footer-links ul a {
+    color: #fff;
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 1;
+
+}
+
+#footer .footer-top .footer-links ul a:hover {
+    color: #fff;
+}
+
+.iconerd {
+    width: 24px;
+    height: 24px;
+}
